@@ -1,7 +1,7 @@
 {
 "companyName": "Juan Pedro Guirado Sánchez",
 "productName": "V-Algo",
-"productVersion": "0.1",
+"productVersion": "1.0",
 "dataUrl": "V-Algo-Unity-Builds.data.unityweb",
 "wasmCodeUrl": "V-Algo-Unity-Builds.wasm.code.unityweb",
 "wasmFrameworkUrl": "V-Algo-Unity-Builds.wasm.framework.unityweb",
